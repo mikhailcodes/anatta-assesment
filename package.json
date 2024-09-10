@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@shopify/admin-api-client": "^1.0.2",
+    "minimist": "^1.2.8"
+  }
+}
